@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yavhe\\source\\repos\\PruebaTecnicaAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14AB9687-F229-4954-8866-344D38B09EBF}|PruebaTecnicaAPI\\PruebaTecnicaAPI.csproj|c:\\users\\yavhe\\source\\repos\\pruebatecnicaapi\\pruebatecnicaapi\\repositories\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14AB9687-F229-4954-8866-344D38B09EBF}|PruebaTecnicaAPI\\PruebaTecnicaAPI.csproj|solutionrelative:pruebatecnicaapi\\repositories\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14AB9687-F229-4954-8866-344D38B09EBF}|PruebaTecnicaAPI\\PruebaTecnicaAPI.csproj|c:\\users\\yavhe\\source\\repos\\pruebatecnicaapi\\pruebatecnicaapi\\controllers\\bibliotecacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14AB9687-F229-4954-8866-344D38B09EBF}|PruebaTecnicaAPI\\PruebaTecnicaAPI.csproj|solutionrelative:pruebatecnicaapi\\controllers\\bibliotecacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14AB9687-F229-4954-8866-344D38B09EBF}|PruebaTecnicaAPI\\PruebaTecnicaAPI.csproj|c:\\users\\yavhe\\source\\repos\\pruebatecnicaapi\\pruebatecnicaapi\\interfaces\\ibookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14AB9687-F229-4954-8866-344D38B09EBF}|PruebaTecnicaAPI\\PruebaTecnicaAPI.csproj|solutionrelative:pruebatecnicaapi\\interfaces\\ibookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14AB9687-F229-4954-8866-344D38B09EBF}|PruebaTecnicaAPI\\PruebaTecnicaAPI.csproj|c:\\users\\yavhe\\source\\repos\\pruebatecnicaapi\\pruebatecnicaapi\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14AB9687-F229-4954-8866-344D38B09EBF}|PruebaTecnicaAPI\\PruebaTecnicaAPI.csproj|solutionrelative:pruebatecnicaapi\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14AB9687-F229-4954-8866-344D38B09EBF}|PruebaTecnicaAPI\\PruebaTecnicaAPI.csproj|c:\\users\\yavhe\\source\\repos\\pruebatecnicaapi\\pruebatecnicaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14AB9687-F229-4954-8866-344D38B09EBF}|PruebaTecnicaAPI\\PruebaTecnicaAPI.csproj|solutionrelative:pruebatecnicaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yavhe\\source\\repos\\PruebaTecnicaAPI\\PruebaTecnicaAPI\\Program.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Yavhe\\source\\repos\\PruebaTecnicaAPI\\PruebaTecnicaAPI\\Program.cs",
+              "RelativeToolTip": "PruebaTecnicaAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T19:51:22.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookManager.cs",
+              "DocumentMoniker": "C:\\Users\\Yavhe\\source\\repos\\PruebaTecnicaAPI\\PruebaTecnicaAPI\\Repositories\\BookManager.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaAPI\\Repositories\\BookManager.cs",
+              "ToolTip": "C:\\Users\\Yavhe\\source\\repos\\PruebaTecnicaAPI\\PruebaTecnicaAPI\\Repositories\\BookManager.cs",
+              "RelativeToolTip": "PruebaTecnicaAPI\\Repositories\\BookManager.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwDoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T19:50:11.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBookManager.cs",
+              "DocumentMoniker": "C:\\Users\\Yavhe\\source\\repos\\PruebaTecnicaAPI\\PruebaTecnicaAPI\\Interfaces\\IBookManager.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaAPI\\Interfaces\\IBookManager.cs",
+              "ToolTip": "C:\\Users\\Yavhe\\source\\repos\\PruebaTecnicaAPI\\PruebaTecnicaAPI\\Interfaces\\IBookManager.cs",
+              "RelativeToolTip": "PruebaTecnicaAPI\\Interfaces\\IBookManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T19:48:18.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookModel.cs",
+              "DocumentMoniker": "C:\\Users\\Yavhe\\source\\repos\\PruebaTecnicaAPI\\PruebaTecnicaAPI\\Models\\BookModel.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaAPI\\Models\\BookModel.cs",
+              "ToolTip": "C:\\Users\\Yavhe\\source\\repos\\PruebaTecnicaAPI\\PruebaTecnicaAPI\\Models\\BookModel.cs",
+              "RelativeToolTip": "PruebaTecnicaAPI\\Models\\BookModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T19:44:32.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BibliotecaController.cs",
+              "DocumentMoniker": "C:\\Users\\Yavhe\\source\\repos\\PruebaTecnicaAPI\\PruebaTecnicaAPI\\Controllers\\BibliotecaController.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaAPI\\Controllers\\BibliotecaController.cs",
+              "ToolTip": "C:\\Users\\Yavhe\\source\\repos\\PruebaTecnicaAPI\\PruebaTecnicaAPI\\Controllers\\BibliotecaController.cs",
+              "RelativeToolTip": "PruebaTecnicaAPI\\Controllers\\BibliotecaController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T19:43:41.904Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
